@@ -27,20 +27,14 @@ Once you have the application on your computer, follow these steps:
 - Navigate to the downloaded folder or the cloned repository using the terminal/command prompt.
 - Install dependencies by running:
 ```
-   npm install
+npm install
 ```
-or
-```
-yarn install
-```
+
 - Start the application by running:
 ```
 npm start
 ```
-or
-```
-yarn start
-```
+
 - Open your browser and go to `http://localhost:3000` to access the CBSE Class 10 Percentage Calculator.
 ### 3. Using the Calculator
 - Enter your marks for each subject (English, Language, Maths, Science, Social Science, etc.) in the respective input fields.
