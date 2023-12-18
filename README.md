@@ -1,4 +1,5 @@
-# CBSE Class 10 Percentage Calculator
+![Favicon](/public/favicon.ico)
+ # CBSE Class 10 Percentage Calculator
 
 Hey 10th-grade board examination students!
 
