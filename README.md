@@ -15,7 +15,7 @@ To use the CBSE Class 10 Percentage Calculator:
 - Run the following command:
 
 ```
-git clone https://github.com/codewithriza/cbse-class-10-percentage-calculator.git
+https://github.com/CODEWITHRIZA/Percentage-Calculator.git
 ```
 This will download the application to your local machine.
 
