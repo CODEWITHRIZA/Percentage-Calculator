@@ -14,8 +14,9 @@ To use the CBSE Class 10 Percentage Calculator:
 - Open your terminal/command prompt.
 - Run the following command:
 
-  ````
-   git clone https://github.com/codewithriza/cbse-class-10-percentage-calculator.git
+```
+git clone https://github.com/codewithriza/cbse-class-10-percentage-calculator.git
+```
 This will download the application to your local machine.
 
 #### Option 2: Download ZIP File
@@ -29,14 +30,13 @@ Once you have the application on your computer, follow these steps:
 
 - Navigate to the downloaded folder or the cloned repository using the terminal/command prompt.
 - Install dependencies by running:
-  ```
-   npm install
-
+```
+npm install
+```
 or
-
-    ```
-     yarn install
-
+ ```
+ yarn install
+```
 - Start the application by running:
 
 ```
